@@ -3,3 +3,4 @@ Variables, If, Else and While
 1-last_digit.c: program that prints the last digit of a random number
 2-print_alphabet.c: program that prints lowercase letters in alphabet
 3-alphabet.c: program that prints lower and uppercase alphabet
+4-alphabt.c: program that prints lowercase letters except e and q

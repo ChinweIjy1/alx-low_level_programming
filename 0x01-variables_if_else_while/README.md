@@ -5,3 +5,4 @@ Variables, If, Else and While
 3-alphabet.c: program that prints lower and uppercase alphabet
 4-alphabt.c: program that prints lowercase letters except e and q
 5-alphabet.c: print single digit numbers
+6-numberz.c: print single digit numbers (restrictive)

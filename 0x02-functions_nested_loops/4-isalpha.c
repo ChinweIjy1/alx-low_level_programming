@@ -1,8 +1,9 @@
 #include "main.h"
 /**
- * _isalpha - checks for alphabetic character
- * @c: c is an ascii character
- * Return: 1 if letter
+ * _isalpha - Entry point
+ * @c: the int value
+ * Description: A function that checks for alphabetic character
+ * Return: 1 if true, otherwise 0
 */
 int _isalpha(int c)
 {
@@ -10,7 +11,7 @@ if (c >= 'a' && c <= 'z')
 {
 return (1);
 }
-else if (C >= 'A' && C <= 'Z')
+else if (c >= 'A' && c <= 'Z')
 {
 return (1);
 }

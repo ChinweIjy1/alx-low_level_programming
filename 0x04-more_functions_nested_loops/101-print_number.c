@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * print_number - print an int numbers
  * @n: number tested
@@ -34,7 +33,7 @@ i = 1;
 while (i < digits)
 {
 power = power * 10;
-i++
+i++;
 }
 j = power;
 while (j >= 1)

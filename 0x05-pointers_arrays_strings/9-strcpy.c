@@ -14,6 +14,6 @@ int i = -1;
 do {
 i++;
 dest[i] = src[i];
-} while (scr[i] != '\0');
+} while (src[i] != '\0');
 return (dest);
 }

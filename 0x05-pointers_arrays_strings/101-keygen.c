@@ -11,7 +11,7 @@
 */
 int main(void)
 {
-int sumb = 0, n = 0, i = 0;
+int sum = 0, n = 0, i = 0;
 char str[100];
 
 srand(time(NULL));
@@ -31,6 +31,6 @@ sum += n;
 n = 0;
 }
 str[i] = '\0';
-printsf("%s", str);
+printf("%s", str);
 return (0);
 }

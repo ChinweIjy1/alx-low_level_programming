@@ -6,3 +6,4 @@ C - Recursion
 4-pow_recursion.c: A function that returns the value of x exponent y
 5-sqrt_recursion.c: A function that returns the natural square root of a number
 6-is_prime_number.c: A function that returns 1 if the input integer is a prime number, otherwise return 0
+100-is_palindrome.c: A function that returns 1 if a string is a palindrome and 0 if no
